@@ -214,6 +214,9 @@
       </Properties>
     </Component>
     <Component class="javax.swing.JProgressBar" name="prg_cpu">
+      <Properties>
+        <Property name="stringPainted" type="boolean" value="true"/>
+      </Properties>
     </Component>
     <Component class="javax.swing.JLabel" name="jLabel5">
       <Properties>
@@ -221,8 +224,14 @@
       </Properties>
     </Component>
     <Component class="javax.swing.JProgressBar" name="prg_ram">
+      <Properties>
+        <Property name="stringPainted" type="boolean" value="true"/>
+      </Properties>
     </Component>
     <Component class="javax.swing.JProgressBar" name="prg_disco">
+      <Properties>
+        <Property name="stringPainted" type="boolean" value="true"/>
+      </Properties>
     </Component>
     <Component class="javax.swing.JLabel" name="jLabel8">
       <Properties>

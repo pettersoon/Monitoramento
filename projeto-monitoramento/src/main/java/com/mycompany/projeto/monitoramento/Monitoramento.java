@@ -91,7 +91,13 @@ public class Monitoramento extends javax.swing.JFrame {
         jLabel4.setFont(new java.awt.Font("Gloucester MT Extra Condensed", 0, 30)); // NOI18N
         jLabel4.setText("Relatório");
 
+        prg_cpu.setStringPainted(true);
+
         jLabel5.setText("COMPONENTE");
+
+        prg_ram.setStringPainted(true);
+
+        prg_disco.setStringPainted(true);
 
         jLabel8.setText("CPU");
 
